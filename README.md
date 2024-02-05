@@ -22,10 +22,6 @@
 - Push the generated code to the `master` branch of this repository.
 - ⚠️<b>NOTE:</b> Make sure to remove `analyticsId` & `google search console Id` from `<head>` tag, and set yours, if you want to use your own Google Analytics & search console account.⚠️
 
-
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
-
 ## Tools Used 🛠️
 * [<b>Animista</b>](https://animista.net/) - To use Interactive animations
 
