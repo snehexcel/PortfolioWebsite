@@ -5,7 +5,7 @@
 
 
 
-![Screenshot of Website](portfolioss.png)
+![Screenshot of Website]("portfolioscreenshot.png")
 
 :star: Feel free to show your support on GitHub by starring the repository!
 
